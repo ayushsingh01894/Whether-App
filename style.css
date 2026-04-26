@@ -14,7 +14,7 @@ body {
 
   background:
     linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-    url("backgroundroshan.jpg") no-repeat center/cover;
+    url("background.jpg") no-repeat center/cover;
 
   font-family: 'Poppins', sans-serif;
 }
@@ -106,7 +106,6 @@ body {
 /* WEATHER */
 .weather {
   display: none;
-  /* ritesh */
 }
 
 .weather-icon {
