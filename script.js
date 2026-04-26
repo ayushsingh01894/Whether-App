@@ -31,7 +31,6 @@ async function checkWeather(city) {
 
   document.querySelector(".wind").innerHTML =
     data.wind.speed + " km/h";
-    // roshan
 
   document.querySelector(".desc").innerHTML =
     data.weather[0].description;
